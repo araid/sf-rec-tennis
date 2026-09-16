@@ -4,6 +4,16 @@ SF Rec Tennis is an unofficial Chrome extension that makes it easier to find and
 
 It adds precise time and duration filters, favorites, distance sorting, court-light filters, and reminders for reservation windows. It does not make reservations automatically.
 
+## Screenshots
+
+### Quick access, filters, favorites, and reminders
+
+![SF Rec Tennis quick access menu, custom filters, favorites, and reminders](assets/screenshot-1.png)
+
+### Distance sorting and booking notifications on rec.us
+
+![SF Rec Tennis distance sorting on the rec.us court list with a booking notification](assets/screenshot-2.png)
+
 ## Install
 
 The Chrome Web Store listing is coming soon. Until then, packaged builds may be downloaded from [Releases](https://github.com/araid/sf-rec-tennis/releases) and loaded manually:
