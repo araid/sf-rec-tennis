@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Privacy policy
+    url: https://araid.github.io/sf-rec-tennis/privacy.html
+    about: Learn how SF Rec Tennis handles data.
+  - name: Report a security vulnerability
+    url: https://github.com/araid/sf-rec-tennis/security/advisories/new
+    about: Privately report a security issue instead of opening a public issue.
